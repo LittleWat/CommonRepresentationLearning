@@ -1,2 +1,2 @@
-output/*
+mnist_output/*
 .ipynb_checkpoints/*
